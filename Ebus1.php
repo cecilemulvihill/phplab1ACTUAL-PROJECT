@@ -12,7 +12,7 @@ $_SESSION['txtTotal'] = $totalValue;
         <style>
             body {
                 background-image: url(Consulting.jpg);
-                background-size: 1450px 750px;
+                background-size: 1450px 780px;
             }
         </style>
     </head>
@@ -87,23 +87,23 @@ $_SESSION['txtTotal'] = $totalValue;
                 if (document.getElementById('Blockchain').checked) {
                     document.intCalc.txtSubTotal.value = Blockchain;
                     subAmount= Blockchain;
-                    calculation(subAmount);
+                    argSubTotal(subAmount);
                 }
                     
                 else if (document.getElementById('AutonomousThings').checked) {
                     document.intCalc.txtSubTotal.value = AutonomousThings;
                     subAmount= AutonomousThings;
-                    calculation(subAmount);
+                    argSubTotal(subAmount);
                 }
                 
                 else if (document.getElementById('ImmersiveExperience').checked) {
                      document.intCalc.txtSubTotal.value = ImmersiveExperience;
                     subAmount= ImmersiveExperience;
-                    calculation(subAmount);
+                    argSubTotal(subAmount);
                 }
             }
             
-            function calculation(parmSubTotal){
+            function argSubTotal(parmSubTotal){
                 var subTotal = parseFloat(parmSubTotal);
                 var calcDisc = parseFloat(subTotal * .10);
                 var calcVat = parseFloat(subTotal * .20);

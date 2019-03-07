@@ -23,7 +23,9 @@
     <body>
     <center>
         <h1><b>IS1113 Project<br />Cécile Mulvihill, 118361301</b></h1>
-        <button onclick=window.location.href="CV.php">Curriculum Vitae</button>
+        <br />
+        <h4><a href="http://phplab1actual-project.herokuapp.com/">http://phplab1actual-project.herokuapp.com/</a> *Hiroku link</h4>      
+        <button onclick=window.location.href="CV.html">Curriculum Vitae</button>
         <br />
         <br />
         <br />

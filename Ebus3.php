@@ -5,7 +5,7 @@
         <style>
             body {
                 background-image: url(Consulting.jpg);
-                background-size: 1450px 750px;
+                background-size: 1450px 780px;
             }
             
             h1 {

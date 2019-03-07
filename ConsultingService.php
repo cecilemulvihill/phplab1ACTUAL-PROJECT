@@ -5,7 +5,7 @@
         <style>
             body {
                 background-image: url(Consulting.jpg);
-                background-size: 1450px 750px;
+                background-size: 1450px 780px;
             }
             
             h1 {
@@ -33,6 +33,7 @@
             below. 
             <hr />
     </center>
+    <hr />
     <h3>Blockchain</h3>
     <p><b>What is Blockchain?</b> Blockchain is a system in which a records of transactions 
         (made in Bitcoin or another <a href="https://blockgeeks.com/guides/what-is-cryptocurrency/">cryptocurrency</a>) are maintained and accessible across several 
@@ -43,6 +44,7 @@
         ~Or see the <a href="https://blockgeeks.com/guides/what-is-blockchain-technology/">Blockgeeks</a> step by step guide.</p>
     <br />
     <br />
+    <hr />
     <br />
     <h3>Autonomous Things</h3>
     <p><b>What are Autonomous Things?</b> Autonomous Things are is simple terms, Robots. In general we have a very narrow view of
@@ -56,6 +58,7 @@
     ~Or take a look at why they matter today at <a href='https://insights.thirdrepublic.com/autonomous-things-what-they-why-matter-today/'>Third Republic.</a></p>
     <br />
     <br />
+    <hr />
     <br />
     <h3>Immersive Experience</h3>
     <p><b>What is Immersive Experience technology?</b> An immersive experience is an illusory environment that completely surrounds you such that you feel that you 
