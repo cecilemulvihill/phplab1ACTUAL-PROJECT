@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Purchase Reciept</title>
+        <title>Purchase Receipt</title>
         <style>
             body {
                 background-image: url(Consulting.jpg);
@@ -43,7 +43,7 @@
         echo "<br></br>";
         echo "Total price of selected Package Option: €".$totalValue2;
         echo "<br></br>";
-        echo "A copy of this reciept will be emailed to: ".$Email;
+        echo "A copy of this receipt will be emailed to: ".$Email;
         
         ?>
         <br />
